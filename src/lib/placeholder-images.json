@@ -1,3 +1,82 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "running-shoes-1",
+      "description": "A pair of modern running shoes.",
+      "imageUrl": "https://images.unsplash.com/photo-1587587448924-b5a1db520d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cnVubmluZyUyMHNob2VzfGVufDB8fHx8MTc3MDE1MDk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "running shoes"
+    },
+    {
+      "id": "basketball-1",
+      "description": "An official size basketball.",
+      "imageUrl": "https://images.unsplash.com/photo-1627627256672-027a4613d028?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxiYXNrZXRiYWxsfGVufDB8fHx8MTc3MDIxMzM0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "basketball"
+    },
+    {
+      "id": "soccer-jersey-1",
+      "description": "A professional soccer jersey.",
+      "imageUrl": "https://images.unsplash.com/photo-1551854386-b42759a60dd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzb2NjZXIlMjBqZXJzZXl8ZW58MHx8fHwxNzcwMjE0Mzc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soccer jersey"
+    },
+    {
+      "id": "tennis-racket-1",
+      "description": "A high-performance tennis racket.",
+      "imageUrl": "https://images.unsplash.com/photo-1560012057-4372e14c5085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVubmlzJTIwcmFja2V0fGVufDB8fHx8MTc3MDE5OTYwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tennis racket"
+    },
+    {
+      "id": "yoga-mat-1",
+      "description": "A non-slip yoga mat.",
+      "imageUrl": "https://images.unsplash.com/photo-1591291621060-89264efbeaed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx5b2dhJTIwbWF0fGVufDB8fHx8MTc3MDE5MjQ3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga mat"
+    },
+    {
+      "id": "running-shorts-1",
+      "description": "Breathable running shorts.",
+      "imageUrl": "https://images.unsplash.com/photo-1769867627565-73f0061f8251?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxydW5uaW5nJTIwc2hvcnRzfGVufDB8fHx8MTc3MDIxNDM3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "running shorts"
+    },
+    {
+      "id": "basketball-hoop-1",
+      "description": "A durable basketball hoop system.",
+      "imageUrl": "https://images.unsplash.com/photo-1582912406853-71c9592a1bf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YmFza2V0YmFsbCUyMGhvb3B8ZW58MHx8fHwxNzcwMTE4NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "basketball hoop"
+    },
+    {
+      "id": "soccer-ball-1",
+      "description": "A professional match soccer ball.",
+      "imageUrl": "https://images.unsplash.com/photo-1511342603327-463faeb51b6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzb2NjZXIlMjBiYWxsfGVufDB8fHx8MTc3MDEwMzY5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soccer ball"
+    },
+    {
+      "id": "tennis-balls-1",
+      "description": "A can of tennis balls.",
+      "imageUrl": "https://images.unsplash.com/photo-1670898839060-8b0a8902ee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZW5uaXMlMjBiYWxsc3xlbnwwfHx8fDE3NzAyMTQzNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tennis balls"
+    },
+    {
+      "id": "dumbbells-1",
+      "description": "A set of adjustable dumbbells.",
+      "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkdW1iYmVsbHN8ZW58MHx8fHwxNzcwMjEzMzQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dumbbells"
+    },
+    {
+      "id": "sports-watch-1",
+      "description": "A GPS-enabled sports watch.",
+      "imageUrl": "https://images.unsplash.com/photo-1555041469-bd92a4a4d538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzcG9ydHMlMjB3YXRjaHxlbnwwfHx8fDE3NzAxMzIxNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sports watch"
+    },
+    {
+      "id": "water-bottle-1",
+      "description": "An insulated stainless steel water bottle.",
+      "imageUrl": "https://images.unsplash.com/photo-1544003484-3cd181d17917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3YXRlciUyMGJvdHRsZXxlbnwwfHx8fDE3NzAxMjAzODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water bottle"
+    },
+    {
+      "id": "hero-image-1",
+      "description": "A dynamic shot of an athlete in motion.",
+      "imageUrl": "https://images.unsplash.com/photo-1695918427235-2d6faaae356a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhdGhsZXRlJTIwcnVubmluZ3xlbnwwfHx8fDE3NzAxNDA3MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "athlete running"
+    }
+  ]
 }
